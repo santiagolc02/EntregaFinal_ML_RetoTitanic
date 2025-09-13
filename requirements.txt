@@ -1,0 +1,16 @@
+Librerías principales usadas
+
+pandas (manejo de datos)
+numpy (operaciones numéricas)
+matplotlib (gráficas básicas)
+seaborn (visualización estadística)
+scipy (estadísticos: skew, kurtosis)
+scikit-learn (preprocesamiento, modelos y métricas)
+json (solo para guardar metadatos, viene en Python por defecto)
+
+pip install pandas==2.2.2
+pip install numpy==1.26.4
+pip install matplotlib==3.9.2
+pip install seaborn==0.13.2
+pip install scipy==1.13.1
+pip install scikit-learn==1.5.1
